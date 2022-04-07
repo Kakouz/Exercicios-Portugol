@@ -42,7 +42,7 @@ programa
 			pare
 			caso contrario:
 				escreva("Opcao Invalida, tente novamente")
-			pare
+			pare	
 			}
 
 	
@@ -53,7 +53,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1600; 
+ * @POSICAO-CURSOR = 1601; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
